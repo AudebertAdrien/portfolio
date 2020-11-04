@@ -1,13 +1,9 @@
-.services .row {
-  position: relative;
-}
-
 @media (min-width: 576px) {
   .services .row:first-of-type {
-    border-bottom: 3px solid red;
+    border-bottom: 1px solid #777;
   }
 
   .services .col-sm:nth-child(2) {
-    border-left: 3px solid red;
+    border-left: 1px solid #777;
   }
 }
