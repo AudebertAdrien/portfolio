@@ -7,10 +7,10 @@ function about() {
     <div className="about-card card mt-3 border-0">
       <h3 className="text-center p-5">A LITTLE BIT ABOUT ME</h3>
       <div className="row no-gutters">
-        <div className="col-md-4 order-2 m-auto">
-          <img src={profilePicture} className="card-img" alt="Profil" />
+        <div className="circular-landscape order-2 m-auto">
+          <img src={profilePicture} alt="Profil" />
         </div>
-        <div className="col-md-8 order-1">
+        <div className="col-md-8 order-1 d-flex align-items-center m-auto">
           <div className="card-body">
             <p className="card-text">
               On the lookout for new technological practices, I take advantage

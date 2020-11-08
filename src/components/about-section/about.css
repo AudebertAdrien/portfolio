@@ -1,3 +1,18 @@
 .about-card {
-    max-width: 100vw;
+  max-width: 100vw;
+}
+
+.circular-landscape {
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular-landscape img {
+  width: auto;
+  height: 100%;
+  margin-left: -55px;
 }

@@ -6,7 +6,7 @@ function skills() {
     <div className="mt-3">
       <h3 className="text-center p-5">SKILLS</h3>
       <div className="row">
-        <div className="col-md-4">
+        <div className="col-md-4 mb-5 mb-md-0">
           <ul className="list-group list-group-flush">
             <h3 className="text-center">LANGAGUE</h3>
             <li className="list-group-item">HTML5</li>
@@ -17,7 +17,7 @@ function skills() {
             <li className="list-group-item">Ruby on Rails</li>
           </ul>
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 mb-5 mb-md-0">
           <ul className="list-group list-group-flush">
             <h3 className="text-center">TOOLS</h3>
             <li className="list-group-item">Git &amp; Github</li>
@@ -26,7 +26,7 @@ function skills() {
             <li className="list-group-item">Postman</li>
           </ul>
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 mb-5 mb-md-0">
           <ul className="list-group list-group-flush">
             <h3 className="text-center">FRAMEWORK &amp; LIBRARY</h3>
             <li className="list-group-item">Redux</li>
