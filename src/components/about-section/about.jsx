@@ -4,7 +4,7 @@ import "./about.css";
 
 function about() {
   return (
-    <div className="about-card card mt-3 border-0">
+    <div className="container about-card card mt-3 border-0">
       <h3 className="text-center p-5">A LITTLE BIT ABOUT ME</h3>
       <div className="row no-gutters">
         <div className="circular-landscape order-2 m-auto">

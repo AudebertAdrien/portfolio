@@ -10,12 +10,10 @@ export default function App() {
   return (
     <div>
       <Intro />
-      <div className="container">
-        <About />
-        <Services />
-        <Skills />
-        <Experiences />
-      </div>
+      <About />
+      <Services />
+      <Skills />
+      <Experiences />
       <Footer />
     </div>
   );

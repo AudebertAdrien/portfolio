@@ -2,7 +2,6 @@
   background-color: transparent;
   width: 300px;
   height: 430px;
-
   perspective: 1000px;
 }
 
@@ -29,7 +28,18 @@
 }
 
 .flip-card-back {
-  background-color: #2980b9;
+  text-align: left;
+  background-color: #388b5ecb;
   color: white;
   transform: rotateY(180deg);
+}
+
+.card-img-top {
+  height: 15rem;
+  object-fit: cover;
+}
+
+.experiences a i {
+  color: #fff;
+  margin: 1rem;
 }

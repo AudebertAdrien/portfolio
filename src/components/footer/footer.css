@@ -1,3 +1,7 @@
 .footer {
-    height: 20vh;
+    height: 20vh;  
+}
+
+.footer a i {
+ color: #388b5ecb;
 }
