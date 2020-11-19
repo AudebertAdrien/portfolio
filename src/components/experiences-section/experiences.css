@@ -30,7 +30,6 @@
 .flip-card-back {
   text-align: left;
   background-color: #388b5ecb;
-  color: white;
   transform: rotateY(180deg);
 }
 
@@ -40,6 +39,6 @@
 }
 
 .experiences a i {
-  color: #fff;
+  color: #000;
   margin: 1rem;
 }

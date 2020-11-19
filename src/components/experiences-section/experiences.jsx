@@ -43,7 +43,7 @@ function experiences() {
               </div>
               <div className="text-center">
                 <a href="https://construction-web-site.herokuapp.com/" target="_blank" rel="noreferrer noopener"><i className="fas fa-external-link-alt fa-2x"></i></a>
-                <a href="https://github.com/AudebertAdrien/construction-web-site" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square fa-2x"></i></a>
+                <a href="https://github.com/AudebertAdrien/construction-web-site" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x"></i></a>
               </div>
             </div>
           </div>
@@ -80,7 +80,7 @@ function experiences() {
               </div>
               <div className="text-center">
                 <a href="https://crimes-in-leicester.netlify.app" target="_blank" rel="noreferrer noopener"><i className="fas fa-external-link-alt fa-2x"></i></a>
-                <a href="https://github.com/AudebertAdrien/react-leaflet-GeoSearch" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square fa-2x"></i></a>
+                <a href="https://github.com/AudebertAdrien/react-leaflet-GeoSearch" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x"></i></a>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ function experiences() {
                 </div>
                 <div className="text-center">
                   <a href="https://weather-forecast-and-review.netlify.app" target="_blank" rel="noreferrer noopener"><i className="fas fa-external-link-alt fa-2x"></i></a>
-                  <a href="https://github.com/AudebertAdrien/pwa-weather-app" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square fa-2x"></i></a>
+                  <a href="https://github.com/AudebertAdrien/pwa-weather-app" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x"></i></a>
                 </div>
             </div>
           </div>
