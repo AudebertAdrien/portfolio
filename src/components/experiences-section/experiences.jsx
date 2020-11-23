@@ -75,7 +75,6 @@ function experiences() {
                   <li>React</li>
                   <li>SWR is a React Hooks library for remote data fetching.</li>
                   <li>Leaflet is an open-source interactive maps</li>
-                  <li>Axios</li>
                 </ul>
               </div>
               <div className="text-center">
