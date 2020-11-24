@@ -11,3 +11,16 @@
 .services .container{
   background-color: #388b5d70;
 }
+
+.col-sm {
+  height: 16rem;
+}
+
+.hide-item {
+  display: none;
+}
+
+.hide:hover .hide-item,
+.hide:focus .hide-item {
+  display: block;
+}
