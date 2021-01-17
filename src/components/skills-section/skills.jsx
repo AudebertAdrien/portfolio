@@ -8,10 +8,10 @@ function skills() {
       <div className="row">
         <div className="col-md-4 mb-5 mb-md-0">
           <ul className="list-group list-group-flush">
-            <h3 className="text-center">LANGAGUE</h3>
+            <h3 className="text-center">LANGUAGE</h3>
             <li className="list-group-item">HTML5</li>
             <li className="list-group-item">CSS3</li>
-            <li className="list-group-item">JavaScript</li>
+U            <li className="list-group-item">JavaScript</li>
             <li className="list-group-item">Ruby</li>
             <li className="list-group-item">PostgreSQL</li>
           </ul>
@@ -29,7 +29,8 @@ function skills() {
         <div className="col-md-4 mb-5 mb-md-0">
           <ul className="list-group list-group-flush">
             <h3 className="text-center">FRAMEWORK &amp; LIBRARY</h3>
-            <li className="list-group-item">React</li>
+            <li className="list-group-item">ReactJS</li>
+            <li className="list-group-item">VueJS</li>
             <li className="list-group-item">Redux</li>
             <li className="list-group-item">Ruby on Rails</li>
             <li className="list-group-item">Jest</li>
